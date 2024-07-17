@@ -2,6 +2,6 @@ const greeter = (name) => {
     console.log("Hello" + name)
 }
 
-let user = "Seda"
+let userr = "Seda"
 
-greeter(user)
+greeter(userr)
